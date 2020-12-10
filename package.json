@@ -1,0 +1,14 @@
+{
+  "name": "nodechildprocesstest",
+  "version": "1.0.0",
+  "description": "Test to run Node child process on Linux App Service connected to BYOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Pineda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
